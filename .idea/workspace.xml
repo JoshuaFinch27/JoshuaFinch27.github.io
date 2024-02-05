@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e429d2ae-22ad-438c-a0a4-d6f7b970074e" name="Changes" comment="Fix 1st carousel image">
-      <change afterPath="$PROJECT_DIR$/.idea/JoshuaFinch27.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_02_2024_7_45_pm_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_02_2024_7_45_pm__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carousel.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/burial_urn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/teleportation_room.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index - Pristine.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_old.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e429d2ae-22ad-438c-a0a4-d6f7b970074e" name="Changes" comment="Add rest of carousel" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +58,7 @@
       <updated>1706839613049</updated>
       <workItem from="1706839614265" duration="1577000" />
       <workItem from="1707096167803" duration="280000" />
-      <workItem from="1707126255482" duration="4003000" />
+      <workItem from="1707126255482" duration="4390000" />
     </task>
     <task id="LOCAL-00001" summary="Test change in title">
       <created>1707126785021</created>
@@ -130,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707129129726</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add rest of carousel">
+      <created>1707130302995</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707130302995</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +149,7 @@
     <MESSAGE value="Add labels to navbar" />
     <MESSAGE value="Add crowded_graveyard.png and first image to carousel" />
     <MESSAGE value="Fix 1st carousel image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix 1st carousel image" />
+    <MESSAGE value="Add rest of carousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add rest of carousel" />
   </component>
 </project>
